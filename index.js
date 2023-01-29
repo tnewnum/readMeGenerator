@@ -119,7 +119,7 @@ Email me with any additional questions: ${email}`
     .then((answers) => {
       const readMeContent =generateReadMe(answers);
       
-    fs.writeFile('README2.md', readMeContent, (err) =>
+    fs.writeFile('README.md', readMeContent, (err) =>
     err ? console.log(err) : console.log('Successfully created README.md file!')        
     );
   });
