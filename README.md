@@ -21,7 +21,8 @@ Must install inquirer and fs
 
 Launch node index.js from the commmand line and the program will do the rest!
 
-Check out this vedio to see how it works! 
+Check out this vedio to see how it works!
+ 
 https://drive.google.com/file/d/1R_31n17JunM0lN-taZCzz6dC-8USCJFb/view?usp=sharing
 
 ## License
