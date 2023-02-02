@@ -19,7 +19,8 @@ Must install inquirer and fs
 
 ## Usage
 
-launch node index.js from the commmand line and the program will do the rest!
+Launch node index.js from the commmand line and the program will do the rest!
+https://drive.google.com/file/d/1R_31n17JunM0lN-taZCzz6dC-8USCJFb/view?usp=sharing
 
 ## License
 
