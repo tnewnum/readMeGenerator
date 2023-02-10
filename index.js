@@ -46,15 +46,20 @@ const questions = [
   message: 'Provide instructions and examples for use.',
   },
   {
-  type: 'input',
-  name: 'credits',
-  message: 'List your collaborators, if any, with links to their GitHub profiles.',
-  },
-  {
   type: "list",
   message: 'What License would you like to include?',
   name: 'license',
   choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License', 'BSD 2-Clause "Simplified" License'],
+  },
+  {
+    type:'input',
+    name:'tests',
+    message: 'Are there any Tests for your program built in?'
+  },
+  {
+  type: 'input',
+  name: 'credits',
+  message: 'List your collaborators, if any, with links to their GitHub profiles.',
   },
   {
   type: 'input',
@@ -71,7 +76,7 @@ const questions = [
 
 
 // Function to write README file
-const generateReadMe = ({projectTitle, discription, installation, usage, credits, license, github, email }) =>
+const generateReadMe = ({projectTitle, discription, installation, usage, credits, license, tests, github, email }) =>
 `# ${projectTitle}
 
 ${renderLicenseBadge(license)}
@@ -103,9 +108,13 @@ This project is coverd under the ${license}!
 
 ${credits}
 
-##Test
+## Test
 
-##Questions
+${tests}
+
+## Questions
+
+If you have any questions - use the links below to reach out!
 
 Github Username: @${github}
 
@@ -115,8 +124,8 @@ Email me with any additional questions: ${email}`
 
 
   
-  // Funtions that kicks the whole thing off, and prompts the user with questions to populate the README.md
-  function init() {
+// Funtions that kicks the whole thing off, and prompts the user with questions to populate the README.md
+function init() {
     inquirer
     .prompt(questions)
     .then((answers) => {
