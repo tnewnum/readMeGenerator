@@ -1,41 +1,42 @@
-# ReadMe Generator 
+# README Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Description
+## 📘 Description
 
-This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.
+his project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.
 
-## Table of Contents
+## 📑 Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Credits](#credits)
 
-## Installation
+## 🛠️ Installation 
 
-Must install inquirer and fs
+Must install Inquirer
 
 ## Usage
 
-Launch node index.js from the commmand line and the program will do the rest!
+Launch the application from the comand line using "node index.js"
 
-Check out this vedio to see how it works!
- 
-https://drive.google.com/file/d/1R_31n17JunM0lN-taZCzz6dC-8USCJFb/view?usp=sharing
+![image](https://user-images.githubusercontent.com/117390778/222489125-dff335d4-24e1-4e70-a3ba-b212c271a8b6.png)
 
-## License
+## 🔒 License
 
-This project is coverd under the MIT License!
+This project is not coverd under a License at this time!
 
-## Credits
+## 🤝 Credits
 
 Thanks for your help @nwherman1724 https://github.com/nwherman1724
 
-##Test
+## ⚡ Test
 
-##Questions
+There are no tests at this time
+
+## ❓ Questions
+
+If you have any questions - use the links below to reach out!
 
 Github Username: @tnewnum
 

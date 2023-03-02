@@ -7,6 +7,7 @@ const apacheLicense = `[![License](https://img.shields.io/badge/License-Apache_2
 const gnuLicense= `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`
 const mitLicense = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
 const bsdLicense = `[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)`
+const noLicense = 'No License at this time'
 
 //function that runs through an if statement checking user input to select the selected license 
 function renderLicenseBadge (license) {
@@ -18,6 +19,8 @@ function renderLicenseBadge (license) {
     return mitLicense
   }else if (license === 'BSD 2-Clause "Simplified" License'){
     return bsdLicense
+  }else if (license === 'No License at this time'){
+    return noLicense
   } else {
     return '';
   }
@@ -49,7 +52,7 @@ const questions = [
   type: "list",
   message: 'What License would you like to include?',
   name: 'license',
-  choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License', 'BSD 2-Clause "Simplified" License'],
+  choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License', 'BSD 2-Clause "Simplified" License', 'No License at this time'],
   },
   {
     type:'input',
@@ -81,18 +84,18 @@ const generateReadMe = ({projectTitle, discription, installation, usage, credits
 
 ${renderLicenseBadge(license)}
 
-## Description
+## 📘 Description
 
 ${discription}
 
-## Table of Contents
+## 📑 Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Credits](#credits)
 
-## Installation
+## 🛠️ Installation 
 
 ${installation}
 
@@ -100,19 +103,19 @@ ${installation}
 
 ${usage}
 
-## License
+## 🔒 License
 
 This project is coverd under the ${license}!
 
-## Credits
+## 🤝 Credits
 
 ${credits}
 
-## Test
+## ⚡ Test
 
 ${tests}
 
-## Questions
+## ❓ Questions
 
 If you have any questions - use the links below to reach out!
 
