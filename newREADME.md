@@ -1,10 +1,10 @@
-# Entertainment Wishlist
+# Prework Study Guide Webpage
 
 No License at this time
 
 ## 📘 Description
 
-As a Gaming and Comic Fan I want to see the top rated games and comics so that I am able to build a wishlist for the games and comics I want to purchase in the future.
+This is my first ever coding project. I am coming into this with zero background knowledge with hopes of making a career change.  This project laid the fondation work for HTML, CSS, and JavaScript.
 
 ## 📑 Table of Contents 
 
@@ -15,19 +15,19 @@ As a Gaming and Comic Fan I want to see the top rated games and comics so that I
 
 ## 🛠️ Installation 
 
-No Installation required
+No Installation Required
 
 ## Usage
 
-Select an option on the left and your results will display on the right. Then you can add them to your wishlist for tracking of future purchases.
+Once you launch the webpage, notes populate. If you would like to see JavaScript working in the wild, open your Console in DEV Tools!
 
 ## 🔒 License
 
-This project is coverd under the No License at this time!
+This project is covered under : No License at this time!
 
 ## 🤝 Credits
 
-Damian Galus - https://github.com/DFgalus Ryan Mennemeier - https://github.com/Taliwat Tommy Newnum - https://github.com/tnewnum
+None
 
 ## ⚡ Test
 

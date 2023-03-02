@@ -105,7 +105,7 @@ ${usage}
 
 ## 🔒 License
 
-This project is coverd under the ${license}!
+This project is covered under : ${license}!
 
 ## 🤝 Credits
 
