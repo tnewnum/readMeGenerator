@@ -3,7 +3,7 @@
 
 ## 📘 Description
 
-his project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.
+This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.
 
 ## 📑 Table of Contents 
 
