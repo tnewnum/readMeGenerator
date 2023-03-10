@@ -1,10 +1,10 @@
-# Prework Study Guide Webpage
+# LTR Lending
 
-No License at this time
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📘 Description
 
-This is my first ever coding project. I am coming into this with zero background knowledge with hopes of making a career change.  This project laid the fondation work for HTML, CSS, and JavaScript.
+Looking to get a loan? Look no further. We offer a wide range of products from $50 personal loans, all the way up to JUMBO Mortgages!  With our app the user will be able to login, submit an application, check the status of the application, communicate with the Lending Officer, and obtain a Pre-Qualification Letter to provide to the Realtor or Dealership if needed.
 
 ## 📑 Table of Contents 
 
@@ -15,23 +15,23 @@ This is my first ever coding project. I am coming into this with zero background
 
 ## 🛠️ Installation 
 
-No Installation Required
+Must install a bunch of thinks - NEED TO COME BACK AND EDIT!!!!!!!!!!!!!!!!!!!!
 
 ## Usage
 
-Once you launch the webpage, notes populate. If you would like to see JavaScript working in the wild, open your Console in DEV Tools!
+UPDATE LATER!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## 🔒 License
 
-This project is covered under : No License at this time!
+This project is covered under : MIT License!
 
 ## 🤝 Credits
 
-None
+LondaNH and Taliwat and Tnewnum
 
 ## ⚡ Test
 
-No Tests
+ARE WE GOING TO DO TESTS? 
 
 ## ❓ Questions
 
