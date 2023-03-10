@@ -3,7 +3,7 @@
 
 ## 📘 Description
 
-This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.This project helps you build your starter README.md file. It will prompt you with questions to populate the md file, so that the next time you have a project your process is more streamlined.
+This project is designed to assist you in creating your initial README.md file. It prompts you with questions to fill in the markdown file, making the process more efficient for future projects.
 
 ## 📑 Table of Contents 
 
